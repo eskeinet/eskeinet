@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my first platformer / visual novel
-- 🌱 I’m currently learning advanced GraphQL
+- 🌱 I’m currently learning how to train LLM & Diffusion Models
 - 👯 I’m looking to collaborate on video games
 - 🤔 I’m looking for help with game music
-- 💬 Ask me about cats, donuts, and ninjas in Syberia
+- 💬 Ask me about cats, donuts, and ninjas in Karafuto
 - 📫 How to reach me: email
 - 😄 Pronouns: 俺／僕
 
